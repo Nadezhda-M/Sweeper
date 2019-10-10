@@ -1,0 +1,11 @@
+# Folder .idea
+.idea/
+
+
+# Folder out
+out/
+
+
+# module file created by Intellij IDEA
+
+*.iml
